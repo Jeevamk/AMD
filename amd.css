@@ -502,6 +502,9 @@
     float: right;
     margin-right: 105px;
 }
+#newsroom:hover{
+    text-decoration: underline;
+}
 .card-content{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -570,7 +573,16 @@
     transition: transform 1.3s;
     
 } 
-
+.adaptive{
+    overflow: hidden;
+}
+.adaptive img{
+    width: 100%;
+    transition: transform(.5s);
+}
+.adaptive img:hover{
+    transform: scale(1.1);
+}
 
 /* card section end */
 /* footer section starts */
