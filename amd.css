@@ -564,15 +564,14 @@
 .img{
     border-radius: 7px 7px 0px 0px;
 }
-.card1:hover img{ 
+/* .card1:hover img{ 
     transform: scale(1.1); 
-} 
-.card1 img{
+}  */
+/* .card1 img{
     width: 100%;
     overflow: hidden;
-    transition: transform 1.3s;
-    
-} 
+    transition: transform 1.3s;    
+}  */
 .adaptive{
     overflow: hidden;
 }
