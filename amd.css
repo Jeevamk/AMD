@@ -32,7 +32,7 @@
 .nav_items li:hover{
     text-decoration: underline;
 }
-.nav_icons1{
+.nav_icons li i{
     color: white;
 }
 .nav_icons{
